@@ -54,6 +54,4 @@ python performance_test.py
 - RC4-like provides faster encryption and decryption.
 - AES provides stronger security and is the recommended algorithm for secure file storage.
 - AES is the overall recommended algorithm due to its security and practical performance.
-## Author
-
 Developed for the Cryptography Project Assignment (June 2026).
